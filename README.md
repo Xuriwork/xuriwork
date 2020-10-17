@@ -5,10 +5,10 @@
 <h3 align='center'>Things I like</h3>
 
 <ul align='center'>
-  <li>Optimizing for Performance⚡</li>
-  <li>Self-Improvement 😄</li>
-  <li>Learning languages 💬</li>
-  <li>Learning new technologies 🌱</li>
+  <li>⚡ Optimizing for Performance</li>
+  <li>😄 Self-Improvement</li>
+  <li>💬 Learning languages</li>
+  <li>🌱 Learning new technologies</li>
 </ul>
 
 <!--
