@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align='center'>Hallo/Salut/Привет/Cześć 👋</h1>
+
+<p align='center'>Software Developer, Language learner, Full-Time Learner </p>
+
+- Loves performance ⚡
 
 <!--
+
 **Xuriwork/xuriwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
