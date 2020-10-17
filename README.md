@@ -1,8 +1,15 @@
 <h1 align='center'>Hallo/Salut/Привет/Cześć 👋</h1>
 
-<p align='center'>Software Developer, Language learner, Full-Time Learner </p>
+<p align='center'>Software Developer, Full-Time Learner </p>
 
-- Loves performance ⚡
+<p align='center'>Things I like</p>
+
+<ul align='center'>
+  <li>Optimizing for Performance⚡</li>
+  <li>Self-Improvement 😄</li>
+  <li>Learning languages 💬</li>
+  <li>Learning new technologies 🌱</li>
+</ul>
 
 <!--
 
