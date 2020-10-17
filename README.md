@@ -1,6 +1,6 @@
 <h1 align='center'>Hallo/Salut/Привет/Cześć 👋</h1>
 
-<p align='center'>Software Developer, Full-Time Learner </p>
+<p>Software Developer, Full-Time Learner </p>
 
 <h3>Things I like</h3>
 
