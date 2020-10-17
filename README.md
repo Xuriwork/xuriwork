@@ -2,7 +2,7 @@
 
 <p align='center'>Software Developer, Full-Time Learner </p>
 
-<h3 align='center'>Things I like</h3>
+<h3>Things I like</h3>
 
 <ul>
   <li>⚡ Optimizing for Performance</li>
